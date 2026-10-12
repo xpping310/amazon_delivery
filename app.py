@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Amazon Delivery Dashboard", layout="wide")
 
-st.title("Amazon Delivery Dashboard — Team Alpha")
+st.title("Amazon Delivery Dashboard")
 st.caption("For the Logistics Operations Manager, to support daily delivery exception identification and dispatch decisions.")
 
 @st.cache_data
